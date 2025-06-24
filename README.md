@@ -72,4 +72,11 @@ Technologies used :
 - Automating repetitive tasks (CI, tests, deployments, auto documentation)  
 - Topics where tech meets the real world (signal, AI, hardware)
 
+---
+
+## 📰 Daily.dev
+
+<a href="https://app.daily.dev/powell83">
+  <img src="https://api.daily.dev/devcards/v2/3WVZ80MX8QkFIEWPHHJLV.png?type=default&r=cru" width="356" alt="Ivan's Dev Card"/>
+</a>
 
