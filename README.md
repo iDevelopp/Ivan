@@ -12,13 +12,13 @@ Currently studying at **CNAM Toulon**, I also work on personal and collaborative
 
 ---
 
-### 💻 Systèmes d'exploitation
+### 💻 Operating Systems
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)   ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)   ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
 
 ---
 
-### 📦 Outils & Environnements
+### 📦 Tools and Environments
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)   ![Mockoon](https://img.shields.io/badge/Mockoon-2C3E50?logo=mockoon&logoColor=white)   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
@@ -39,14 +39,10 @@ Currently studying at **CNAM Toulon**, I also work on personal and collaborative
 
 ## 🚀 Daily Tools & Development
 
-- **Languages**: Python, C, C++, Java, TypeScript  
-- **Databases**: PostgreSQL (SQL), lightweight ORMs  
-- **Frontend**: Angular, Bootstrap  
 - **Containerization**: Docker  
 - **CI/CD**: GitLab CI, static analysis, testing, deployments  
 - **Versioning / Collaboration**: Git (GitHub, GitLab)  
 - **Operating Systems**: Linux (main dev environment), Windows (interop)  
-- **Mock APIs**: Mockoon
 
 ---
 
