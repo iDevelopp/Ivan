@@ -45,6 +45,12 @@ Technologies used :
 
 ---
 
+# CAD
+![Blender](https://img.shields.io/badge/Blender-FF6C37?style=flat&logo=blender&logoColor=white)  ![SketchUp](https://img.shields.io/badge/SketchUp-E24C2B?style=flat&logo=sketchup&logoColor=white)   ![Twinmotion](https://img.shields.io/badge/Twinmotion-0078D7?style=flat&logo=unity&logoColor=white)
+
+
+---
+
 ## 🚀 Daily Tools & Development
 
 - **Containerization**: Docker  
