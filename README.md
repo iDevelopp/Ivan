@@ -9,6 +9,7 @@ Currently studying at **CNAM Toulon**, I also work on personal and collaborative
 ## 🛠️ Versioning & CI/CD
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)   ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)   ![GitLab CI](https://img.shields.io/badge/GitLabCI-554488?logo=gitlab&logoColor=white)  
+![Camo Git](https://img.shields.io/badge/Camo%20Git-111111?logo=git&logoColor=white)  ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white)
 
 ---
 
