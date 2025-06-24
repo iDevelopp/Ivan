@@ -37,6 +37,13 @@ Currently studying at **CNAM Toulon**, I also work on personal and collaborative
 
 
 ---
+# IoT Project
+
+Technologies used :  
+![ESP32](https://img.shields.io/badge/ESP32-32b6ff?style=flat-square&logo=esp32&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=node-red&logoColor=white) ![Mosquitto](https://img.shields.io/badge/Mosquitto-3E8E41?style=flat-square&logo=mosquitto&logoColor=white)
+
+---
 
 ## 🚀 Daily Tools & Development
 
