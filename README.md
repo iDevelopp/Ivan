@@ -6,21 +6,34 @@ Currently studying at **CNAM Toulon**, I also work on personal and collaborative
 
 ---
 
-## 🛠️ Stack & Tools
+## 🛠️ Versioning & CI/CD
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)  
-![GitLab CI](https://img.shields.io/badge/GitLabCI-554488?logo=gitlab&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
-![Mockoon](https://img.shields.io/badge/Mockoon-2C3E50?logo=mockoon&logoColor=white)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)   ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)   ![GitLab CI](https://img.shields.io/badge/GitLabCI-554488?logo=gitlab&logoColor=white)  
+
+---
+
+### 💻 Systèmes d'exploitation
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)   ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)   ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
+
+---
+
+### 📦 Outils & Environnements
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)   ![Mockoon](https://img.shields.io/badge/Mockoon-2C3E50?logo=mockoon&logoColor=white)   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
+---
+
+### 🌐 Frontend
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+
+---
+
+### 🔣 Langages
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)   ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)   ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white)   ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)  
+
 
 ---
 
